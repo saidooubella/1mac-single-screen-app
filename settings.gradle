@@ -1,0 +1,2 @@
+rootProject.name='Riad Nakhla'
+include ':app'

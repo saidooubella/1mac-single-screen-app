@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Riad Nakhla</string>
+
+    <string name="address">\tAddress :</string>
+    <string name="tripadviosr_rating">\tTripadviosr Rating :</string>
+    <string name="details">\tHotel details :</string>
+    <string name="features">\tHotel features :</string>
+
+    <string name="hotel_address">12 Street Agadir, Essaouira 44000, Morocco.</string>
+    <string name="hotel_features">• Free High Speed Internet (WiFi).\n• Free breakfast.\n• Rooftop terrace.\n• Private balcony.\n• Baggage storage.\n• Flat-screen TV.\n• Safety.</string>
+    <string name="hotel_tripadvior_rating">4.1 Stars.</string>
+    <string name="hotel_details">If you’re looking for a charming hotel in Essaouira, look no further than Hotel Riad Nakhla.\n\nWhile staying at Hotel Riad Nakhla, visitors can check out Dar Souiri (0.3 mi) and Mogador Christian Cemetery (0.3 mi), some of Essaouira\'s top attractions.\n\nHotel Riad Nakhla features a 24 hour front desk, a concierge, and a rooftop terrace, to help make your stay more enjoyable. The property also boasts free breakfast.\n\nWhile you’re here, be sure to check out some of the seafood restaurants, including La Table by Madada, Triskala Café, and The Loft, all of which are a short distance from Hotel Riad Nakhla.\n\nDuring your visit, be sure to check out Essaouira Ramparts (0.3 mi), which is a popular attraction within walking distance of the hotel.\n\nThe staff at Hotel Riad Nakhla looks forward to serving you during your upcoming visit.</string>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="topTitleSize">22sp</dimen>
+    <dimen name="detailSize">18sp</dimen>
+    <dimen name="titleSize">20sp</dimen>
+    <dimen name="dotSize">10dp</dimen>
+</resources>
